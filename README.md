@@ -38,7 +38,7 @@ Esta es una pequeña aplicación web desarrollada para el Brickbro Frontend Test
    npm install
    ```
 
-3. Crea un archivo `.env.local` en la raíz del proyecto y añade tu API key de Google Maps:
+3. Crea un archivo `.env` en la raíz del proyecto y añade tu API key de Google Maps:
 
    ```env
    NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_api_key_here
