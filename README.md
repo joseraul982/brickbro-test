@@ -36,6 +36,7 @@ Esta es una pequeña aplicación web desarrollada para el Brickbro Frontend Test
 
    ```bash
    npm install
+   npm i -S @react-google-maps/api
    ```
 
 3. Crea un archivo `.env` en la raíz del proyecto y añade tu API key de Google Maps:
